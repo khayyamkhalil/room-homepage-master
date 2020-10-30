@@ -76,7 +76,7 @@ li a:hover {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("./images/icon-hamburger.svg");
+  background-image: url("/img/icon-hamburger.svg");
 }
 
 .close {
@@ -85,7 +85,7 @@ li a:hover {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("./images/icon-close.svg") !important;
+  background-image: url("/img/icon-close.svg") !important;
 }
 
 header {
@@ -105,7 +105,7 @@ header {
 }
 
 .slide-image-1 {
-  background-image: url("./images/desktop-image-hero-1.jpg");
+  background-image: url("/img/desktop-image-hero-1.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,7 +113,7 @@ header {
 }
 
 .slide-image-2 {
-  background-image: url("./images/desktop-image-hero-2.jpg");
+  background-image: url("/img/desktop-image-hero-2.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -121,7 +121,7 @@ header {
 }
 
 .slide-image-3 {
-  background-image: url("./images/desktop-image-hero-3.jpg");
+  background-image: url("/img/desktop-image-hero-3.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
